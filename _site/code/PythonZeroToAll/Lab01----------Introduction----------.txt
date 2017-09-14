@@ -1,0 +1,5 @@
+Lab1 Introduction
+
+> Datatypes, I/O, Import, Operators
+
+> Flow Control: if-else, for Loop, while Loop
