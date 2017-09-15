@@ -1,0 +1,9 @@
+[submodule "code/Python-Lectures"]
+	path = code/Python-Lectures
+	url = https://github.com/rajathkmp/Python-Lectures.git
+[submodule "code/PythonZeroToAll"]
+	path = code/PythonZeroToAll
+	url = https://github.com/hunkim/PythonZeroToAll.git
+[submodule "code/cs228-material"]
+	path = code/cs228-material
+	url = https://github.com/kuleshov/cs228-material.git

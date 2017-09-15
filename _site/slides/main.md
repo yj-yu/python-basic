@@ -39,8 +39,14 @@ template: inverse
 ---
 
 template: inverse
-# 우리는 딥 러닝을
-가지고 놀면서 배웁니다.
+# 딥 러닝 구현을 위한
+가장 빠른 방법을 추구,
+코딩 고수가 되지 않아도 됩니다.
+---
+## Industry 4.0
+
+
+.bottom.center.img-50[ ![](images/industry-4-0.png) ]
 
 ---
 ## With the advent of Deep Learning..
@@ -59,11 +65,6 @@ template: inverse
 .bottom.center.img[ ![](images/1--N5_FtLQFRCcpN2ykq0idQ.png) ]
 
 ### 중간 단계의 representation을 data로부터 생성
----
-## Industry 4.0
-
-
-.bottom.center.img-50[ ![](images/industry-4-0.png) ]
 
 ---
 ## Deep learning application
@@ -103,7 +104,81 @@ template: inverse
 
 .bottom.center.img[ ![](images/satelite.png) ]
 
+
 ---
+
+template: inverse
+## Python is
+Platform 
+independent
+interpreter
+
+
+---
+
+template: inverse
+## Python is enough
+70 % of Google code is made of python
+
+얼마든지 효율적이고 빠른 코드를 작성할 수 있습니다.
+
+---
+
+template: inverse
+## Python is easy
+가독성이 좋습니다. 
+
+코드 리딩 훈련을 파이썬으로 하면, 
+
+최신 work을 빠르게 follow up 할 수 있습니다
+
+---
+
+## Example - Objective
+
+.bottom.center.img[ ![](images/challenge.png) ]
+
+---
+
+## Example - Find open source
+
+.bottom.center.img[ ![](images/challenge2.png) ]
+
+git에는 필요한 거의 모든 모델과 data processing code가 있습니다.
+
+---
+
+## Example - git clone ~~
+.bottom.center.img[ ![](images/challenge3.png) ]
+
+git clone ~~
+
+---
+
+## Example - Make your graph!
+
+.bottom.center.img-70[ ![](images/challenge4.png) ]
+
+tensorflow 이틀 배우면 할 수 있습니다.
+
+
+---
+
+## Make your own work!
+
+1. 해결하고자 하는 문제와 가장 닮은 데이터와 그래프를 찾습니다. 가급적이면 google 직원들이 짠 코드로!
+2. 우리가 배운 python, tensorflow 지식으로 살짝 바꿔봅시다.
+3. 이것 저것 실험해 봅니다. 빵빵한 GPU가 있다면 금상 첨화입니다.
+4. 좋은 결과가 나올 때까지 여러 graph를 실험해 봅니다.
+
+---
+
+template: inverse
+## Let's start python!
+
+
+---
+
 
 ## Environment setting
 
