@@ -7,3 +7,6 @@
 [submodule "code/cs228-material"]
 	path = code/cs228-material
 	url = https://github.com/kuleshov/cs228-material.git
+[submodule "code/Jump-to-python"]
+	path = code/Jump-to-python
+	url = https://github.com/LegendaryKim/Jump-to-Python
