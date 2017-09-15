@@ -1,5 +1,5 @@
 # Python Basic
 
-Slide: [https://yjyu.github.io/python-basic](https://yjyu.github.io/python-basic)
+Slide: [https://yj-yu.github.io/python-basic](https://yj-yu.github.io/python-basic)
 
 
