@@ -10,7 +10,7 @@ class: titlepage, no-number
 ## .gray.author[Youngjae Yu]
 
 ### .x-small[https://github.com/yj-yu/python-basic]
-### .x-small[https://yj-yu.github.io/python--basic]
+### .x-small[https://yj-yu.github.io/python-basic]
 
 .bottom.img-66[ ![](images/lablogo.png) ]
 
@@ -31,7 +31,6 @@ template: inverse
 Platform
 independent
 interpreter
-
 
 ---
 
