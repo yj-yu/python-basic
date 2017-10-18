@@ -52,6 +52,17 @@ template: inverse
 
 ---
 
+## Enjoy programming!
+
+### "Life is too short, You need python." 
+
+(인생은 너무 짧으니 파이썬이 필요해.)
+
+
+
+
+---
+
 ## Be pythonic
 
 The Official Python Tutorial

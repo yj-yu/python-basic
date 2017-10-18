@@ -52,6 +52,43 @@ template: inverse
 
 ---
 
+## Be pythonic
+
+The Official Python Tutorial
+- https://docs.python.org/2/tutorial/
+
+Wikibooks’ Non-Programmers Tutorial for Python
+- https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro
+
+Build dynamic web site (Nettuts+'s python, Django Book)
+- https://code.tutsplus.com/series/python-from-scratch--net-20566
+- http://www.djangobook.com/en/2.0/index.html
+
+---
+## Be pythonic
+
+Make game with python (Invent with Python, Build a Python Bot)
+- http://inventwithpython.com/chapters/
+- https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
+
+If you want to learn Computer Science, Algorithm from python
+- Think Python: How to Think Like a Computer Scientist) http://www.greenteapress.com/thinkpython/thinkpython.html
+- 번역글 : http://www.flowdas.com/thinkpython/
+
+시간 있으실 때 무료 e-book 및 tutorial을 해보시기 바랍니다.
+다른거 힘들게 배울 필요 없습니다.
+
+
+---
+## Be pythonic
+
+Pycon KR에 참가도 해보세요
+프로그래밍으로 상상한 거의 모든것이 가능합니다.
+
+- https://www.pycon.kr/2017/program/schedule/
+
+
+---
 
 template: inverse
 
