@@ -54,7 +54,7 @@ template: inverse
 
 ## Enjoy programming!
 
-### "Life is too short, You need python." 
+### "Life is too short, You need python."
 
 (인생은 너무 짧으니 파이썬이 필요해.)
 
@@ -111,9 +111,9 @@ template: inverse
 
 template: inverse
 # 앞으로 저희가 나눌 내용은..
-Python과 
+Python과
 
-Machine Learning, 
+Machine Learning,
 
 Deep Learning,
 
@@ -184,7 +184,7 @@ https://www.tensorflow.org/install/install_windows
 Anaconda에 있는 배포판에 numpy 등 기본 라이브러리를 기본적으로 포함
 
 아래 링크에서 Python 3.x 버전으로 설치를 해주세요.
-https://www.continuum.io/downloads#windows
+https://www.anaconda.com/distribution/
 
 .bottom.center.img-50[ ![](images/anaconda.png) ]
 
