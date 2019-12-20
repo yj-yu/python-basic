@@ -20,10 +20,10 @@ layout: false
 
 ## About
 
-- Overview
-- Python Basic - Python tutorial (book : Jump to python)
-- Environment settings Anaconda 3
-- Advanced tutorials
+- 오버뷰
+- Python 기초 - Python tutorial (책 : Jump to python)
+- Anaconda 3 을 이용한 실습환경 조성
+- 심화 튜토리얼 해보기
 ---
 
 template: inverse
@@ -31,12 +31,14 @@ template: inverse
 Platform
 independent
 interpreter
+내 컴퓨터에서도 쉽게 돌아간다!
 
 ---
 
 template: inverse
 ## Python is enough
 70 % of Google code is made of python
+구글도 파이썬으로 대부분의 작업을 합니다.
 
 얼마든지 효율적이고 빠른 코드를 작성할 수 있습니다.
 
@@ -49,6 +51,17 @@ template: inverse
 코드 리딩 훈련을 파이썬으로 하면,
 
 최신 work을 빠르게 follow up 할 수 있습니다
+
+---
+
+## 프로그래밍을 생활화! Enjoy programming!
+
+### "Life is too short, You need python."
+
+(인생은 너무 짧으니 파이썬이 필요해.)
+
+
+
 
 ---
 
@@ -68,10 +81,12 @@ Build dynamic web site (Nettuts+'s python, Django Book)
 ## Be pythonic
 
 Make game with python (Invent with Python, Build a Python Bot)
+(파이선으로 게임 만들기)
 - http://inventwithpython.com/chapters/
 - https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
 
 If you want to learn Computer Science, Algorithm from python
+(파이선으로 컴퓨터 과학 배우기)
 - Think Python: How to Think Like a Computer Scientist) http://www.greenteapress.com/thinkpython/thinkpython.html
 - 번역글 : http://www.flowdas.com/thinkpython/
 
@@ -89,24 +104,15 @@ Pycon KR에 참가도 해보세요
 
 
 ---
-
-template: inverse
-
-# Recent advance of deep learning applications
-[예를 들면](https://github.com/devsisters/multi-speaker-tacotron-tensorflow)
-[demo](http://carpedm20.github.io/tacotron/en.html)
-
----
-
 template: inverse
 # 앞으로 저희가 나눌 내용은..
-Python과 
+Python과
 
-Machine Learning, 
+Machine Learning,
 
 Deep Learning,
 
-저희가 제일 잘 할 수 있는 분야도 소개해 드리고 싶습니다.
+에 대한 간단한 실습입니다.
 
 ---
 
@@ -131,10 +137,10 @@ template: inverse
 
 .bottom.center.img[ ![](images/1--N5_FtLQFRCcpN2ykq0idQ.png) ]
 
-### 중간 단계의 representation을 data로부터 생성
+### 중간 단계의 표현형을 데이터로부터 생성
 
 ---
-## Deep learning application
+## Deep learning 응용
 
 
 .bottom.center.img[ ![](images/3d.png) ]
@@ -150,7 +156,7 @@ template: inverse
 
 1. 해결하고자 하는 문제와 가장 닮은 데이터와 이미 구현된 모델을 찾습니다. 가급적이면 google 직원들이 짠 코드로!
 2. 우리가 배운 python, (tensorflow) 지식으로 살짝 바꿔봅시다.
-3. 이것 저것 실험해 봅니다. 빵빵한 GPU가 있다면 금상 첨화입니다.
+3. 이것 저것 실험해 봅니다.
 4. 좋은 결과가 나올 때까지 여러 모델을 실험해 봅니다.
 
 ---
@@ -173,7 +179,7 @@ https://www.tensorflow.org/install/install_windows
 Anaconda에 있는 배포판에 numpy 등 기본 라이브러리를 기본적으로 포함
 
 아래 링크에서 Python 3.x 버전으로 설치를 해주세요.
-https://www.continuum.io/downloads#windows
+https://www.anaconda.com/distribution/
 
 .bottom.center.img-50[ ![](images/anaconda.png) ]
 
@@ -275,10 +281,6 @@ jupyter notebook
 
 ```
 
-First, Jump to python!
-
-Do it!
----
 
 name: last-page
 class: center, middle, no-number

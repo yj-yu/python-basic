@@ -1,3 +1,0 @@
-Lab4 Functions
-
-> Built-Ins, Python Functionals
