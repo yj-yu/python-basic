@@ -254,7 +254,7 @@ template: inverse
 ## Install configuration
 
 ```python
-git clone https://github.com/yj-yu/python-basic.git
+git clone --recursive https://github.com/yj-yu/python-basic.git
 cd python-basic
 ls
 ```
@@ -281,7 +281,7 @@ jupyter notebook
 
 ```
 
-
+---
 name: last-page
 class: center, middle, no-number
 ## Thank You!
