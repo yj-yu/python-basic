@@ -103,23 +103,12 @@ Pycon KR에 참가도 해보세요
 - https://www.pycon.kr/2017/program/schedule/
 
 
----
-template: inverse
-# 앞으로 저희가 나눌 내용은..
-Python과
-
-Machine Learning,
-
-Deep Learning,
-
-에 대한 간단한 실습입니다.
 
 ---
 
 template: inverse
-# 딥 러닝, Machine learning? 맛보기
-가장 빠른 방법을 추구,
-코딩 고수가 되지 않아도 됩니다.
+# 딥 러닝, Machine learning 실습
+
 ---
 
 ## With the advent of Deep Learning..
